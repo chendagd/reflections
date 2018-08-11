@@ -11,7 +11,7 @@ manually pull could keep every commit has their logical meaning.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+forks and clone behave in repository.branch in repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
